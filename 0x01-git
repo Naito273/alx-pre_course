@@ -1,1 +1,4 @@
-README.md
+root@9ca0d3e03459:/alx-pre_course# mkdir 0x01-git                                                                                                      
+mkdir: cannot create directory ‘0x01-git’: File exists                                                                                                 
+root@9ca0d3e03459:/alx-pre_course# ls                                                                                                                  
+0x01-git  README  README.md             
