@@ -1,0 +1,20 @@
+root@9ca0d3e03459:/alx-pre_course# ls                                                                                                   
+0x01-git  README.md                                                                                                                     
+root@9ca0d3e03459:/alx-pre_course# git config --global user.email naitore2kimathi@gmail.com                                             
+root@9ca0d3e03459:/alx-pre_course# git config --global username Naito273                                                                
+error: key does not contain a section: username                                                                                         
+root@9ca0d3e03459:/alx-pre_course# git config --global user.name Naito273                                                               
+root@9ca0d3e03459:/alx-pre_course# git add .                                                                                            
+root@9ca0d3e03459:/alx-pre_course# git commit -m 0x01-git                                                                               
+On branch master                                                                                                                        
+Your branch is based on 'origin/master', but the upstream is gone.                                                                      
+  (use "git branch --unset-upstream" to fixup)                                                                                          
+                                                                                                                                        
+nothing to commit, working tree clean                                                                                                   
+root@9ca0d3e03459:/alx-pre_course# git branch --unset-upstream                                                                          
+root@9ca0d3e03459:/alx-pre_course# git add .                                                                                            
+root@9ca0d3e03459:/alx-pre_course# git commit -m 0x01-git                                                                               
+On branch master                                                                                                                        
+nothing to commit, working tree clean                                                                                                   
+root@9ca0d3e03459:/alx-pre_course#                                                                                                      
+                                      
